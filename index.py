@@ -1,1 +1,2 @@
-print(HELLO WORD)
+print('hello world')
+print('你好, python')
